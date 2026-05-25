@@ -6,11 +6,11 @@ A mobile appointment booking system for Adama Science and Technology University 
 
 | Member | File(s) | Responsibility |
 |--------|---------|---------------|
-| Member 1 | `lib/models/models.dart`, `lib/main.dart` | Data models, app entry point |
-| Member 2 | `lib/providers/app_state_provider.dart` | State management, business logic |
-| Member 3 | `lib/screens/login_screen.dart`, `lib/screens/register_screen.dart` | Authentication screens |
-| Member 4 | `lib/screens/home_screen.dart` | Home, calendar, alerts, control desk tabs |
-| Member 5 | `lib/screens/booking_screen.dart`, `lib/widgets/ai_chat_widget.dart` | Booking flow, AI assistant |
+| Bethlehem Chemeda| `lib/models/models.dart`, `lib/main.dart` | Data models, app entry point |
+| Fiteh Tesfaye | `lib/providers/app_state_provider.dart` | State management, business logic |
+| Lidiya Getachew | `lib/screens/login_screen.dart`, `lib/screens/register_screen.dart` | Authentication screens |
+| Mahider Sefiu | `lib/screens/home_screen.dart` | Home, calendar, alerts, control desk tabs |
+| Birhane Tamirat | `lib/screens/booking_screen.dart`, `lib/widgets/ai_chat_widget.dart` | Booking flow, AI assistant |
 
 ## Project Structure
 
